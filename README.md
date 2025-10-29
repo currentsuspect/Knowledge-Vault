@@ -119,6 +119,3 @@ This is **Everything**—your living, breathing knowledge ecosystem. This is whe
 
 ---
 
-**Last Updated**: {{date:YYYY-MM-DD HH:mm}}
-**Status**: 🟢 Active and Growing
-
