@@ -1,0 +1,390 @@
+{
+  "main": {
+    "id": "a629a3bb653a21b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecf033e7829c39ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68e8903550662a5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Daily/Personal Development/Personal Dev — 04.10.25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Personal Dev — 04.10.25"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ee5d076a8dfc5a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d9b3726d93f6cfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0c1fa4f1ccc7902",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "423b19eb6eacb7d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c26c76386cd937f4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 393.5
+  },
+  "right": {
+    "id": "8958ffb89fbb3311",
+    "type": "split",
+    "children": [
+      {
+        "id": "e04a146618f40d5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d4c60b8422c4916",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "06 - Daily/Personal Development/Personal Dev - 01.09.24.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Personal Dev - 01.09.24"
+            }
+          },
+          {
+            "id": "76cf3c43367a10b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "06 - Daily/Personal Development/Personal Dev - 01.09.24.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Personal Dev - 01.09.24"
+            }
+          },
+          {
+            "id": "50678ac1425c2edc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "06 - Daily/Personal Development/Personal Dev - 01.09.24.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Personal Dev - 01.09.24"
+            }
+          },
+          {
+            "id": "d9d4f7a758b160bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fd5e183718115dd4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8c052850cf6350bc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "73f2b988549dc887",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "d1b319ca75e51416",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "1cd3e6321c56324a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "2035ecb62b687dc7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "3afe2e27668f1dfd",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "3493abfad4d9c6cd",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "f723b492645faa8d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "eac00feeb0397af8",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "31ea86667ad9829c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "de692ad91aaf60e7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "6e22cffb8e39e1b1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "adb7b385a7f2596e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "af5cb1dde3cf6592",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ],
+        "currentTab": 18
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "workspaces:Manage workspace layouts": false,
+      "zk-prefixer:Create new unique note": false,
+      "daily-notes:Open today's daily note": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-importer:Open Importer": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "af5cb1dde3cf6592",
+  "lastOpenFiles": [
+    "02 - Areas/Annotating CVAT —  Cheatsheet.md",
+    "06 - Daily/Personal Development/Personal Dev — 04.10.25.md",
+    "02 - Areas/Relationships/embeded wds.md",
+    "02 - Areas/Relationships/prd bt nt the one i want.md",
+    "02 - Areas/Relationships/DRK.md",
+    "03 - Resources/Cheat Sheets/Method Lab/Do's N Don'ts.md",
+    "03 - Resources/Cheat Sheets/Method Lab/Sharps.md",
+    "03 - Resources/Cheat Sheets/Method Lab",
+    "02 - Areas/Relationships/6. Toolbox/Challenging Questions & Topics.md",
+    "02 - Areas/Relationships/2. Maintenance/How to Challenge Your Partner.md",
+    "02 - Areas/Relationships/7. Logs/Daily Journal/2025-09-03.md",
+    "02 - Areas/Relationships/7. Logs/Daily Journal/Journal Index.md",
+    "02 - Areas/Relationships/2. Maintenance/Love Languages.md",
+    "99 - Meta/00 - Templates/TEMPLATE - Daily Relationship Journal.md",
+    "02 - Areas/Relationships/2. Maintenance/Communication.md",
+    "99 - Meta/00 - Templates/TEMPLATE - Monthly Summary.md",
+    "02 - Areas/Relationships/7. Logs/Daily Journal",
+    "02 - Areas/Relationships/6. Toolbox/Date Ideas.md",
+    "02 - Areas/Relationships/2. Maintenance/Keeping the Spark.md",
+    "02 - Areas/Relationships/4. Growth/Rituals & Traditions.md",
+    "02 - Areas/Relationships/6. Toolbox/Relationship Vocabulary.md",
+    "02 - Areas/Relationships/4. Growth",
+    "02 - Areas/Relationships/7. Logs/Milestones.md",
+    "02 - Areas/Relationships/3. Challenges & Repairs/When Things Go Wrong.md",
+    "02 - Areas/Relationships/6. Toolbox",
+    "02 - Areas/Relationships/1. Foundations/Core Values.md",
+    "02 - Areas/Relationships/1. Foundations/Adventure.md",
+    "02 - Areas/Relationships/1. Foundations/Growth.md",
+    "02 - Areas/Relationships/1. Foundations/Honesty.md",
+    "02 - Areas/Relationships/1. Foundations/Respect.md",
+    "02 - Areas/Relationships/7. Logs",
+    "02 - Areas/Relationships/3. Challenges & Repairs",
+    "02 - Areas/Relationships/2. Maintenance",
+    "02 - Areas/Relationships/1. Foundations",
+    "02 - Areas/Relationships",
+    "01 - Projects/PIPI003/PP",
+    "99 - Meta/Bin/Pasted image 20240918211008.png",
+    "99 - Meta/Bin/Pasted image 20240918205645.png",
+    "03 - Resources/Mental Models/Programming/Python/Logic Behind It.canvas",
+    "99 - Meta/Bin/Python Icon.png",
+    "99 - Meta/Bin/Pasted image 20240916122400.png",
+    "99 - Meta/Bin/Pasted image 20240903104517.png",
+    "99 - Meta/Bin/Pasted image 20240831225228.png",
+    "99 - Meta/Bin/Pasted image 20240708124704.png",
+    "99 - Meta/Bin/Pasted image 20240404142054.jpg",
+    "99 - Meta/Bin/Pasted image 20240718101524.png",
+    "99 - Meta/Bin/Pasted image 20240718153305.png",
+    "Untitled 1.canvas"
+  ]
+}

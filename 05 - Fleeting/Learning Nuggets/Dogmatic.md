@@ -1,0 +1,3 @@
+"Dogmatic" is when someone is super rigid in their beliefs or opinions and thinks they’re absolutely right, no matter what. They don't like questioning or debating their ideas — it’s like saying, “This is how it is, period.” Imagine someone who insists their way is the only way, and if you disagree, they shut you down or won't listen.
+
+So, being dogmatic means holding onto your beliefs tightly, without much room for flexibility or change. It’s like locking yourself in a mental fortress and refusing to let anything new in.

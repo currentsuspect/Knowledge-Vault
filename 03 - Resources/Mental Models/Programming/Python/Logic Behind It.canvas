@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"991be29086322eb8","type":"group","x":-1280,"y":360,"width":1690,"height":596,"color":"4","label":"Levels"},
+		{"id":"0fc065f0bdaf69ab","type":"text","text":"So What Are The Key Features?","x":-975,"y":-226,"width":200,"height":104,"color":"2"},
+		{"id":"efecb041a9f6411e","type":"text","text":"Below is the Icon to python","x":71,"y":-282,"width":250,"height":60,"color":"4"},
+		{"id":"3e8bc7ad0500a4e4","type":"file","file":"04 - Permanent/Programming/Python/Basics.md","subpath":"#^357783","x":-640,"y":64,"width":400,"height":200,"color":"1"},
+		{"id":"679b3c809cecd614","type":"text","text":"WHAT IS PYTHON?","x":70,"y":134,"width":250,"height":60,"color":"4"},
+		{"id":"6d77600822849dda","type":"text","text":"**In short** it is a General Purpose Coding Language.","x":-1000,"y":99,"width":250,"height":130,"color":"2"},
+		{"id":"eea30606c9820923","type":"text","text":"**Readability**\n\n- Clean and easy-to-understand syntax.","x":-690,"y":-267,"width":250,"height":185,"color":"2"},
+		{"id":"630e4d21f92d051d","type":"text","text":"### High Level Vs Low Level.\n\n**High-Level Language**\n- Abstracts Complex Details\n- Human-Readable Syntax\n- Portability\n\n**Low-Level Language**\n- Direct Hardware Control\n- Hardware Specific\n- Performance Optimization\n- Examples: Assembly, Machine Code","x":-1260,"y":480,"width":438,"height":416,"color":"4"},
+		{"id":"0d0aae70660e176c","type":"text","text":"**High-Level Language: Meaning?**\n- It abstracts complex details from the user.","x":-420,"y":380,"width":250,"height":200,"color":"5"},
+		{"id":"e156fa9063d52e2a","type":"text","text":"- Instead of being compiled to [[Machine Code]], Python code is executed line-by-line by the interpreter, making it slower but highly flexible.\n- **Benefit**: Instant feedback for testing code. Great for beginners as you can run Python interactively in the shell.\n- **Downside**: Not as fast as compiled languages like C or C++.","x":-85,"y":380,"width":450,"height":308,"color":"6"},
+		{"id":"e3244e7f0d2bb2bc","type":"text","text":"**Low-level languages** are programming languages that provide little abstraction from the computer's hardware. They operate very close to the machine’s binary code. And Fast, **VERY FAST**\n","x":-520,"y":690,"width":350,"height":216,"color":"5"},
+		{"id":"fa68918be6dbe65f","type":"text","text":"C, Assembly","x":70,"y":768,"width":250,"height":60,"color":"5"},
+		{"id":"96147560214ea586","type":"file","file":"99 - Meta/Bin/Python Icon.png","x":141,"y":-82,"width":108,"height":108}
+	],
+	"edges":[
+		{"id":"69e1bbc525bea82a","fromNode":"679b3c809cecd614","fromSide":"left","toNode":"3e8bc7ad0500a4e4","toSide":"right","color":"1","label":"Overview"},
+		{"id":"32f2910b39119551","fromNode":"96147560214ea586","fromSide":"bottom","toNode":"679b3c809cecd614","toSide":"top","color":"4"},
+		{"id":"5d63f1f538282628","fromNode":"6d77600822849dda","fromSide":"top","toNode":"0fc065f0bdaf69ab","toSide":"bottom","color":"2"},
+		{"id":"45299ff47337b00f","fromNode":"6d77600822849dda","fromSide":"right","toNode":"3e8bc7ad0500a4e4","toSide":"left","toEnd":"none","color":"2"},
+		{"id":"e8b3e380a928a9a3","fromNode":"0fc065f0bdaf69ab","fromSide":"right","toNode":"eea30606c9820923","toSide":"left"},
+		{"id":"c34b293a2223538b","fromNode":"0d0aae70660e176c","fromSide":"bottom","toNode":"e3244e7f0d2bb2bc","toSide":"top","color":"5","label":"So there are Low Level Ones?"},
+		{"id":"d802ea1900501445","fromNode":"0d0aae70660e176c","fromSide":"left","toNode":"630e4d21f92d051d","toSide":"right","color":"4","label":"Difference?"},
+		{"id":"2f26e90487315093","fromNode":"e3244e7f0d2bb2bc","fromSide":"left","toNode":"630e4d21f92d051d","toSide":"right","color":"4"},
+		{"id":"f054ac1a0c7d46b1","fromNode":"96147560214ea586","fromSide":"top","toNode":"efecb041a9f6411e","toSide":"bottom","color":"4"},
+		{"id":"2f0da12059f6f040","fromNode":"e3244e7f0d2bb2bc","fromSide":"right","toNode":"fa68918be6dbe65f","toSide":"left","label":"Examples?"},
+		{"id":"327b7fc692f8e4b7","fromNode":"3e8bc7ad0500a4e4","fromSide":"bottom","toNode":"e156fa9063d52e2a","toSide":"top","color":"6","label":"What Does \"Interpreted\" Mean?:"},
+		{"id":"50617ff851f58e8f","fromNode":"991be29086322eb8","fromSide":"top","toNode":"3e8bc7ad0500a4e4","toSide":"bottom","color":"5"}
+	]
+}
